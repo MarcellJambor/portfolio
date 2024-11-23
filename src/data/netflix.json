@@ -1,0 +1,5 @@
+{
+    "title": "Netflix",
+    "heading": "This Netflix clone is a React-based website that provides users with an immersive streaming experience. Built with a modern tech stack, it leverages APIs for fetching content and Firebase for user authentication and data storage.",
+    "link": "https://github.com/MarcellJambor/netflix-clone"
+}
